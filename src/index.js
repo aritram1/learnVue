@@ -1,1 +1,6 @@
-import vue from '../lib/vue.js';
+new Vue({
+    el: "#app",
+    data: {
+        user : 'aritra'
+    },
+});
